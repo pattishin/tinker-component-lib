@@ -1,7 +1,7 @@
 
 # tinker-component-lib
 
-An example react component library
+An example react component library based on [Building a React Component Library](https://medium.com/@_alanbsmith/building-a-react-component-library-part-1-d8a1e248fe6c)
 
 ## Goals and concepts
 
