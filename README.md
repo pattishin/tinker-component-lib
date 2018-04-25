@@ -1,2 +1,5 @@
+
 # tinker-component-lib
-Example React component library
+
+An example react component library for personal use
+
